@@ -1,0 +1,12 @@
+# Core framework
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Fetch.ai agent identities
+uagents>=0.13.0
+
+# External database integration
+requests>=2.31.0
+
+# Optional: LLM integration (only required if OPENAI_API_KEY is set)
+# openai>=1.0.0

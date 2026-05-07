@@ -1,0 +1,5 @@
+(molecule Known_A)
+(molecular_weight Known_A 1.0)
+(activity_score Known_A 0.5)
+(selectivity Known_A 0.5)
+(similar_to Known_A Missing_B)
